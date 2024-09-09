@@ -36,3 +36,17 @@
  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
  ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm)
  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+<br/>
+<a href="https://github.com/AdikaNathaniel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdikaNathaniel&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdikaNathaniel&theme=buefy&layout=compact" />
+</a>
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/nathaniel-adika-20a30226a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nathaniel%20Adika-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:nathanieladikajnr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nathanieladikajnr@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
