@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering at University of Ghana,Legon.
 - 💼 &nbsp; Passionate about learning new skills and working in a team to achieve a common goal.
-- 🌱 &nbsp; Learning more about MERN Stack technonlogy,Blockchain Technology.
+- 🌱 &nbsp; Learning more about MERN Stack technonlogy,Blockchain Technology and Mobile App Development.
 - ✍️ &nbsp; Playing football with friends and video games as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
